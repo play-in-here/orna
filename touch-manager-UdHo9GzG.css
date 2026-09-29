@@ -1,0 +1,1 @@
+.chestWrapper{width:100%;height:100%;position:absolute}.staticChest{width:100%;height:100%;image-rendering:pixelated;position:absolute}.chestCanvas{width:100%;height:100%;image-rendering:pixelated;position:absolute;pointer-events:none}.chestCanvas.fullscreen{position:fixed;top:0;left:0;width:100vw;height:100vh}
